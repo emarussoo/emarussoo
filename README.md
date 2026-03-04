@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 📊 Le mie Statistiche GitHub
+### 📊 My github stats
 
 [![Le mie statistiche GitHub](https://github-readme-stats-fast.vercel.app/api?username=emarussoo&show_icons=true&theme=radical)](https://github.com/emarussoo)
 
