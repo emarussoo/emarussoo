@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 ### 📊 Le mie Statistiche GitHub
 
 [![Le mie statistiche GitHub](https://github-readme-stats.vercel.app/api?username=emarussoo&show_icons=true&theme=radical)](https://github.com/emarussoo)
+
+[![I miei linguaggi più usati](https://github-readme-stats.vercel.app/api/top-langs/?username=emarussoo&layout=compact&theme=radical)](https://github.com/emarussoo)
